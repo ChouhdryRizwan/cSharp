@@ -12,6 +12,15 @@ namespace OOP
         {
             Car newcar = new Car();
             Console.WriteLine("{0} is the model of {1} company.", newcar.model, newcar.company);
+            newcar.fullRace();
+
+            Console.WriteLine("------------------");
+
+            Car mycar = new Car();
+            mycar.company = "Honda";
+            mycar.model = "Civic";
+
+        Console.WriteLine("{0} is the model of {1} company.", mycar.model, mycar.company);
 
             Console.ReadKey();
         }

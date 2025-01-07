@@ -8,7 +8,13 @@ namespace OOP
 {
     internal class Car
     {
-            public string company = "Toyota";
-            public string model = "Corolla";
+        public string company = "Toyota"; // field
+        public string model = "Corolla"; // field
+
+        public void fullRace()  // method
+        {
+            Console.WriteLine("teez teez chalii");
+        }
+
     }
 }
