@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cSharp\\prac-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98F83D1B-1B27-4B85-A556-5613DA292864}|prac-1\\prac-1.csproj|d:\\csharp\\prac-1\\prac-1\\views\\men\\kurta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98F83D1B-1B27-4B85-A556-5613DA292864}|prac-1\\prac-1.csproj|solutionrelative:prac-1\\views\\men\\kurta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F83D1B-1B27-4B85-A556-5613DA292864}|prac-1\\prac-1.csproj|d:\\csharp\\prac-1\\prac-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F83D1B-1B27-4B85-A556-5613DA292864}|prac-1\\prac-1.csproj|solutionrelative:prac-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F83D1B-1B27-4B85-A556-5613DA292864}|prac-1\\prac-1.csproj|d:\\csharp\\prac-1\\prac-1\\controllers\\mencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F83D1B-1B27-4B85-A556-5613DA292864}|prac-1\\prac-1.csproj|solutionrelative:prac-1\\controllers\\mencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F83D1B-1B27-4B85-A556-5613DA292864}|prac-1\\prac-1.csproj|d:\\csharp\\prac-1\\prac-1\\views\\men\\jeans.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98F83D1B-1B27-4B85-A556-5613DA292864}|prac-1\\prac-1.csproj|solutionrelative:prac-1\\views\\men\\jeans.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F83D1B-1B27-4B85-A556-5613DA292864}|prac-1\\prac-1.csproj|d:\\csharp\\prac-1\\prac-1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F83D1B-1B27-4B85-A556-5613DA292864}|prac-1\\prac-1.csproj|solutionrelative:prac-1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kurta.cshtml",
+              "DocumentMoniker": "D:\\cSharp\\prac-1\\prac-1\\Views\\Men\\kurta.cshtml",
+              "RelativeDocumentMoniker": "prac-1\\Views\\Men\\kurta.cshtml",
+              "ToolTip": "D:\\cSharp\\prac-1\\prac-1\\Views\\Men\\kurta.cshtml",
+              "RelativeToolTip": "prac-1\\Views\\Men\\kurta.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T07:14:57.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "jeans.cshtml",
+              "DocumentMoniker": "D:\\cSharp\\prac-1\\prac-1\\Views\\Men\\jeans.cshtml",
+              "RelativeDocumentMoniker": "prac-1\\Views\\Men\\jeans.cshtml",
+              "ToolTip": "D:\\cSharp\\prac-1\\prac-1\\Views\\Men\\jeans.cshtml",
+              "RelativeToolTip": "prac-1\\Views\\Men\\jeans.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T07:02:29.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\cSharp\\prac-1\\prac-1\\Program.cs",
+              "RelativeDocumentMoniker": "prac-1\\Program.cs",
+              "ToolTip": "D:\\cSharp\\prac-1\\prac-1\\Program.cs",
+              "RelativeToolTip": "prac-1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:01:34.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenController.cs",
+              "DocumentMoniker": "D:\\cSharp\\prac-1\\prac-1\\Controllers\\MenController.cs",
+              "RelativeDocumentMoniker": "prac-1\\Controllers\\MenController.cs",
+              "ToolTip": "D:\\cSharp\\prac-1\\prac-1\\Controllers\\MenController.cs",
+              "RelativeToolTip": "prac-1\\Controllers\\MenController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:01:17.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\cSharp\\prac-1\\prac-1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "prac-1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\cSharp\\prac-1\\prac-1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "prac-1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:00:15.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
