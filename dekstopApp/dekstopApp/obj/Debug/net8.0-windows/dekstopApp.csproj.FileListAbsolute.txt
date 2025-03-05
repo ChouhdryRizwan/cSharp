@@ -1,0 +1,17 @@
+D:\cSharp\dekstopApp\dekstopApp\bin\Debug\net8.0-windows\dekstopApp.exe
+D:\cSharp\dekstopApp\dekstopApp\bin\Debug\net8.0-windows\dekstopApp.deps.json
+D:\cSharp\dekstopApp\dekstopApp\bin\Debug\net8.0-windows\dekstopApp.runtimeconfig.json
+D:\cSharp\dekstopApp\dekstopApp\bin\Debug\net8.0-windows\dekstopApp.dll
+D:\cSharp\dekstopApp\dekstopApp\bin\Debug\net8.0-windows\dekstopApp.pdb
+D:\cSharp\dekstopApp\dekstopApp\obj\Debug\net8.0-windows\dekstopApp.Form1.resources
+D:\cSharp\dekstopApp\dekstopApp\obj\Debug\net8.0-windows\dekstopApp.csproj.GenerateResource.cache
+D:\cSharp\dekstopApp\dekstopApp\obj\Debug\net8.0-windows\dekstopApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\cSharp\dekstopApp\dekstopApp\obj\Debug\net8.0-windows\dekstopApp.AssemblyInfoInputs.cache
+D:\cSharp\dekstopApp\dekstopApp\obj\Debug\net8.0-windows\dekstopApp.AssemblyInfo.cs
+D:\cSharp\dekstopApp\dekstopApp\obj\Debug\net8.0-windows\dekstopApp.csproj.CoreCompileInputs.cache
+D:\cSharp\dekstopApp\dekstopApp\obj\Debug\net8.0-windows\dekstopApp.sourcelink.json
+D:\cSharp\dekstopApp\dekstopApp\obj\Debug\net8.0-windows\dekstopApp.dll
+D:\cSharp\dekstopApp\dekstopApp\obj\Debug\net8.0-windows\refint\dekstopApp.dll
+D:\cSharp\dekstopApp\dekstopApp\obj\Debug\net8.0-windows\dekstopApp.pdb
+D:\cSharp\dekstopApp\dekstopApp\obj\Debug\net8.0-windows\dekstopApp.genruntimeconfig.cache
+D:\cSharp\dekstopApp\dekstopApp\obj\Debug\net8.0-windows\ref\dekstopApp.dll

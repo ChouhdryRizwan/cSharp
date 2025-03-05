@@ -1,0 +1,15 @@
+D:\cSharp\NRecordTypes\NRecordTypes\bin\Debug\net8.0\NRecordTypes.exe
+D:\cSharp\NRecordTypes\NRecordTypes\bin\Debug\net8.0\NRecordTypes.deps.json
+D:\cSharp\NRecordTypes\NRecordTypes\bin\Debug\net8.0\NRecordTypes.runtimeconfig.json
+D:\cSharp\NRecordTypes\NRecordTypes\bin\Debug\net8.0\NRecordTypes.dll
+D:\cSharp\NRecordTypes\NRecordTypes\bin\Debug\net8.0\NRecordTypes.pdb
+D:\cSharp\NRecordTypes\NRecordTypes\obj\Debug\net8.0\NRecordTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\cSharp\NRecordTypes\NRecordTypes\obj\Debug\net8.0\NRecordTypes.AssemblyInfoInputs.cache
+D:\cSharp\NRecordTypes\NRecordTypes\obj\Debug\net8.0\NRecordTypes.AssemblyInfo.cs
+D:\cSharp\NRecordTypes\NRecordTypes\obj\Debug\net8.0\NRecordTypes.csproj.CoreCompileInputs.cache
+D:\cSharp\NRecordTypes\NRecordTypes\obj\Debug\net8.0\NRecordTypes.sourcelink.json
+D:\cSharp\NRecordTypes\NRecordTypes\obj\Debug\net8.0\NRecordTypes.dll
+D:\cSharp\NRecordTypes\NRecordTypes\obj\Debug\net8.0\refint\NRecordTypes.dll
+D:\cSharp\NRecordTypes\NRecordTypes\obj\Debug\net8.0\NRecordTypes.pdb
+D:\cSharp\NRecordTypes\NRecordTypes\obj\Debug\net8.0\NRecordTypes.genruntimeconfig.cache
+D:\cSharp\NRecordTypes\NRecordTypes\obj\Debug\net8.0\ref\NRecordTypes.dll

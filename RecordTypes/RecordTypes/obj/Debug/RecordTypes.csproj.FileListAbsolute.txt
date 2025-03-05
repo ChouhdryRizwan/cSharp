@@ -1,0 +1,7 @@
+D:\cSharp\RecordTypes\RecordTypes\bin\Debug\RecordTypes.exe.config
+D:\cSharp\RecordTypes\RecordTypes\bin\Debug\RecordTypes.exe
+D:\cSharp\RecordTypes\RecordTypes\bin\Debug\RecordTypes.pdb
+D:\cSharp\RecordTypes\RecordTypes\obj\Debug\RecordTypes.csproj.AssemblyReference.cache
+D:\cSharp\RecordTypes\RecordTypes\obj\Debug\RecordTypes.csproj.CoreCompileInputs.cache
+D:\cSharp\RecordTypes\RecordTypes\obj\Debug\RecordTypes.exe
+D:\cSharp\RecordTypes\RecordTypes\obj\Debug\RecordTypes.pdb
