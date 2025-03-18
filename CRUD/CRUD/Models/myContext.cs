@@ -6,6 +6,7 @@ namespace CRUD.Models
     {
         public myContext(DbContextOptions<myContext> options) : base(options){
         
-        }  
+        }
+        public DbSet<Student> tbl_Students { get; set; }
     }
 }

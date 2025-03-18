@@ -1,0 +1,18 @@
+﻿@model CRUD.Models.Student
+<h1> Student Registration</h1>
+<a asp-action="Fetch">Student List</a>
+
+<form asp-controller="Student" asp-action="Index" method="post">
+	<label asp-for="sname" class="form-label">Name</label>
+	<input type="text" class="form-control" asp-for="sname" />
+	<span asp-validation-for="sname" style="color:red" class="form-label"></span>
+	<br />
+	<label asp-for="semail" class="form-label">Email</label>
+	<input type="email" class="form-control" asp-for="semail" />
+	<br />
+	<label asp-for="sbatch" class="form-label">Batch</label>
+	<input type="text" class="form-control" asp-for="sbatch" />
+	<br />
+	<input type="submit" value="Register" class="btn btn-primary" />
+</form>
+ 

@@ -1,0 +1,11 @@
+﻿@using CRUD.Models
+@model Student
+
+<h1> Details @Model.sname</h1>
+<ul>
+    <li>Name: @Model.sname</li>
+    <li>Email: @Model.semail</li>
+    <li>Batch: @Model.sbatch</li>
+</ul>
+
+<a asp-action="Fetch">Back</a>

@@ -1,0 +1,36 @@
+﻿@using CRUD.Models  
+@model List<Student>  
+
+<h1>Students</h1>  
+<a asp-action="Index">Create New</a>  
+
+<table class="table">  
+    <thead>  
+        <tr>  
+            <th scope="col">#</th>  
+            <th scope="col">Name</th>  
+            <th scope="col">Email</th>  
+            <th scope="col">Batch</th>  
+            <th scope="col">Action</th>  
+        </tr>  
+    </thead>  
+    <tbody>
+        @{
+            int count = 1;
+        }
+        @foreach (var std in Model) {  
+            <tr>  
+                <td>@count</td>  
+                <td>@std.sname</td>  
+                <td>@std.semail</td>  
+                <td>@std.sbatch</td>  
+                <td>  
+                    <a asp-action="Edit" asp-route-id="@std.sid">Edit</a> |  
+                    <a asp-action="Details" asp-route-id="@std.sid">Details</a> |  
+                    <a asp-action="Delete" asp-route-id="@std.sid" onclick="return confirm('Are you sure you want to delete this student?');">Delete</a>  
+                </td>  
+            </tr>
+            count++;
+        }  
+   </tbody>  
+</table>

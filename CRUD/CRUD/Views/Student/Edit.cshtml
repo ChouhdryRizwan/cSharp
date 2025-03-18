@@ -1,0 +1,21 @@
+﻿@using CRUD.Models
+@model Student
+
+<h1> Edit @Model.sname</h1>
+<a asp-action="Fetch">Back</a>
+
+<form asp-controller="Student" asp-action="Edit" method="post">
+	<label asp-for="sname" class="form-label">Name</label>
+	<input type="text" class="form-control" asp-for="sname" value="@Model.sname" />
+	
+	<label asp-for="semail" class="form-label">Email</label> 
+	<input type="email" class="form-control" asp-for="semail" value="@Model.semail" />
+
+	<label asp-for="sbatch" class="form-label">Batch</label>
+	<input type="text" class="form-control" asp-for="sbatch" value="@Model.sbatch" />
+	
+	<input type="text" class="form-control" asp-for="sid" value="@Model.sid" hidden />
+	
+	<br />
+	<input type="submit" value="Update" class="btn btn-primary" />
+</form>
