@@ -1,0 +1,15 @@
+D:\cSharp\Genrics\Genrics\bin\Debug\net8.0\Genrics.exe
+D:\cSharp\Genrics\Genrics\bin\Debug\net8.0\Genrics.deps.json
+D:\cSharp\Genrics\Genrics\bin\Debug\net8.0\Genrics.runtimeconfig.json
+D:\cSharp\Genrics\Genrics\bin\Debug\net8.0\Genrics.dll
+D:\cSharp\Genrics\Genrics\bin\Debug\net8.0\Genrics.pdb
+D:\cSharp\Genrics\Genrics\obj\Debug\net8.0\Genrics.GeneratedMSBuildEditorConfig.editorconfig
+D:\cSharp\Genrics\Genrics\obj\Debug\net8.0\Genrics.AssemblyInfoInputs.cache
+D:\cSharp\Genrics\Genrics\obj\Debug\net8.0\Genrics.AssemblyInfo.cs
+D:\cSharp\Genrics\Genrics\obj\Debug\net8.0\Genrics.csproj.CoreCompileInputs.cache
+D:\cSharp\Genrics\Genrics\obj\Debug\net8.0\Genrics.sourcelink.json
+D:\cSharp\Genrics\Genrics\obj\Debug\net8.0\Genrics.dll
+D:\cSharp\Genrics\Genrics\obj\Debug\net8.0\refint\Genrics.dll
+D:\cSharp\Genrics\Genrics\obj\Debug\net8.0\Genrics.pdb
+D:\cSharp\Genrics\Genrics\obj\Debug\net8.0\Genrics.genruntimeconfig.cache
+D:\cSharp\Genrics\Genrics\obj\Debug\net8.0\ref\Genrics.dll
