@@ -1,0 +1,15 @@
+D:\cSharp\Collection\Collection\obj\Debug\net8.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+D:\cSharp\Collection\Collection\obj\Debug\net8.0\Collection.AssemblyInfoInputs.cache
+D:\cSharp\Collection\Collection\obj\Debug\net8.0\Collection.AssemblyInfo.cs
+D:\cSharp\Collection\Collection\obj\Debug\net8.0\Collection.csproj.CoreCompileInputs.cache
+D:\cSharp\Collection\Collection\obj\Debug\net8.0\Collection.sourcelink.json
+D:\cSharp\Collection\Collection\bin\Debug\net8.0\Collection.exe
+D:\cSharp\Collection\Collection\bin\Debug\net8.0\Collection.deps.json
+D:\cSharp\Collection\Collection\bin\Debug\net8.0\Collection.runtimeconfig.json
+D:\cSharp\Collection\Collection\bin\Debug\net8.0\Collection.dll
+D:\cSharp\Collection\Collection\bin\Debug\net8.0\Collection.pdb
+D:\cSharp\Collection\Collection\obj\Debug\net8.0\Collection.dll
+D:\cSharp\Collection\Collection\obj\Debug\net8.0\refint\Collection.dll
+D:\cSharp\Collection\Collection\obj\Debug\net8.0\Collection.pdb
+D:\cSharp\Collection\Collection\obj\Debug\net8.0\Collection.genruntimeconfig.cache
+D:\cSharp\Collection\Collection\obj\Debug\net8.0\ref\Collection.dll
