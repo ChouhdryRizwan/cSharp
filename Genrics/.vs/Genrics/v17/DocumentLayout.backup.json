@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\cSharp\\Genrics\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A9D28ECA-DB22-477B-ACE6-4C2EEA286105}|Genrics\\Genrics.csproj|d:\\csharp\\genrics\\genrics\\iterators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D28ECA-DB22-477B-ACE6-4C2EEA286105}|Genrics\\Genrics.csproj|solutionrelative:genrics\\iterators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9D28ECA-DB22-477B-ACE6-4C2EEA286105}|Genrics\\Genrics.csproj|d:\\csharp\\genrics\\genrics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9D28ECA-DB22-477B-ACE6-4C2EEA286105}|Genrics\\Genrics.csproj|solutionrelative:genrics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Iterators.cs",
+              "DocumentMoniker": "D:\\cSharp\\Genrics\\Genrics\\Iterators.cs",
+              "RelativeDocumentMoniker": "Genrics\\Iterators.cs",
+              "ToolTip": "D:\\cSharp\\Genrics\\Genrics\\Iterators.cs",
+              "RelativeToolTip": "Genrics\\Iterators.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:33:06.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\cSharp\\Genrics\\Genrics\\Program.cs",
               "RelativeDocumentMoniker": "Genrics\\Program.cs",
               "ToolTip": "D:\\cSharp\\Genrics\\Genrics\\Program.cs",
               "RelativeToolTip": "Genrics\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T01:25:19.889Z",
+              "WhenOpened": "2025-03-21T15:25:18.384Z",
               "EditorCaption": ""
             }
           ]
