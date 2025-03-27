@@ -8,5 +8,6 @@ namespace CRUD.Models
         
         }
         public DbSet<Student> tbl_Students { get; set; }
+        public DbSet<Product> tbl_Products { get; set; }
     }
 }

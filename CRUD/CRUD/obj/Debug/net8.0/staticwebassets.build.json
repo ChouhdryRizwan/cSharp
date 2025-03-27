@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0e5Y8xRLyLtZfhTmkcp4yRyNJsCdrdAhGWTxwhUqqM8=",
+  "Hash": "cIpo8noVWBFq6o65FlxWcNjGv7EQTU5mCwnCOOSKX9Q=",
   "Source": "CRUD",
   "BasePath": "_content/CRUD",
   "Mode": "Default",
@@ -99,6 +99,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\images\\brown3.webp",
+      "SourceId": "CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\",
+      "BasePath": "_content/CRUD",
+      "RelativePath": "images/brown3#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h5zdcu4r7e",
+      "Integrity": "y0iHtFZ8/A+ljyabXyDG38Lf5v+eiqv/vRrynDmPFLE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\brown3.webp"
     },
     {
       "Identity": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\js\\site.js",
@@ -1645,6 +1666,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "images/brown3.h5zdcu4r7e.webp",
+      "AssetFile": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\images\\brown3.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40092"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y0iHtFZ8/A+ljyabXyDG38Lf5v+eiqv/vRrynDmPFLE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 11:58:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h5zdcu4r7e"
+        },
+        {
+          "Name": "label",
+          "Value": "images/brown3.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y0iHtFZ8/A+ljyabXyDG38Lf5v+eiqv/vRrynDmPFLE="
+        }
+      ]
+    },
+    {
+      "Route": "images/brown3.webp",
+      "AssetFile": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\images\\brown3.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40092"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y0iHtFZ8/A+ljyabXyDG38Lf5v+eiqv/vRrynDmPFLE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 11:58:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y0iHtFZ8/A+ljyabXyDG38Lf5v+eiqv/vRrynDmPFLE="
         }
       ]
     },

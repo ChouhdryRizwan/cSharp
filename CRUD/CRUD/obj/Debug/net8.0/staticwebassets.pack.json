@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\images\\brown3.webp",
+      "PackagePath": "staticwebassets\\images\\brown3.webp"
+    },
+    {
       "Id": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

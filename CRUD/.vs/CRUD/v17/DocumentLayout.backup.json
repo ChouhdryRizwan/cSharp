@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\cSharp\\CRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29A53EA3-A28B-4338-8B69-603430D08236}|CRUD\\CRUD.csproj|d:\\csharp\\crud\\crud\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29A53EA3-A28B-4338-8B69-603430D08236}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{29A53EA3-A28B-4338-8B69-603430D08236}|CRUD\\CRUD.csproj|d:\\csharp\\crud\\crud\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A53EA3-A28B-4338-8B69-603430D08236}|CRUD\\CRUD.csproj|solutionrelative:crud\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A53EA3-A28B-4338-8B69-603430D08236}|CRUD\\CRUD.csproj|d:\\csharp\\crud\\crud\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29A53EA3-A28B-4338-8B69-603430D08236}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{29A53EA3-A28B-4338-8B69-603430D08236}|CRUD\\CRUD.csproj|d:\\csharp\\crud\\crud\\models\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A53EA3-A28B-4338-8B69-603430D08236}|CRUD\\CRUD.csproj|solutionrelative:crud\\models\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A53EA3-A28B-4338-8B69-603430D08236}|CRUD\\CRUD.csproj|d:\\csharp\\crud\\crud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A53EA3-A28B-4338-8B69-603430D08236}|CRUD\\CRUD.csproj|solutionrelative:crud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29A53EA3-A28B-4338-8B69-603430D08236}|CRUD\\CRUD.csproj|d:\\csharp\\crud\\crud\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29A53EA3-A28B-4338-8B69-603430D08236}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A53EA3-A28B-4338-8B69-603430D08236}|CRUD\\CRUD.csproj|d:\\csharp\\crud\\crud\\views\\student\\fetch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29A53EA3-A28B-4338-8B69-603430D08236}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\student\\fetch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{29A53EA3-A28B-4338-8B69-603430D08236}|CRUD\\CRUD.csproj|d:\\csharp\\crud\\crud\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A53EA3-A28B-4338-8B69-603430D08236}|CRUD\\CRUD.csproj|solutionrelative:crud\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A53EA3-A28B-4338-8B69-603430D08236}|CRUD\\CRUD.csproj|d:\\csharp\\crud\\crud\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29A53EA3-A28B-4338-8B69-603430D08236}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A53EA3-A28B-4338-8B69-603430D08236}|CRUD\\CRUD.csproj|d:\\csharp\\crud\\crud\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29A53EA3-A28B-4338-8B69-603430D08236}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "D:\\cSharp\\CRUD\\CRUD\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "CRUD\\Controllers\\StudentController.cs",
-              "ToolTip": "D:\\cSharp\\CRUD\\CRUD\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "CRUD\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAcwEoAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T15:29:01.642Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\cSharp\\CRUD\\CRUD\\Views\\Student\\Details.cshtml",
-              "RelativeDocumentMoniker": "CRUD\\Views\\Student\\Details.cshtml",
-              "ToolTip": "D:\\cSharp\\CRUD\\CRUD\\Views\\Student\\Details.cshtml",
-              "RelativeToolTip": "CRUD\\Views\\Student\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T17:59:04.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\cSharp\\CRUD\\CRUD\\Views\\Student\\Edit.cshtml",
-              "RelativeDocumentMoniker": "CRUD\\Views\\Student\\Edit.cshtml",
-              "ToolTip": "D:\\cSharp\\CRUD\\CRUD\\Views\\Student\\Edit.cshtml",
-              "RelativeToolTip": "CRUD\\Views\\Student\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Title": "myContext.cs",
+              "DocumentMoniker": "D:\\cSharp\\CRUD\\CRUD\\Models\\myContext.cs",
+              "RelativeDocumentMoniker": "CRUD\\Models\\myContext.cs",
+              "ToolTip": "D:\\cSharp\\CRUD\\CRUD\\Models\\myContext.cs",
+              "RelativeToolTip": "CRUD\\Models\\myContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:11:46.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\cSharp\\CRUD\\CRUD\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\cSharp\\CRUD\\CRUD\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "CRUD\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T17:48:02.561Z",
+              "WhenOpened": "2025-03-27T19:10:04.814Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Fetch.cshtml",
-              "DocumentMoniker": "D:\\cSharp\\CRUD\\CRUD\\Views\\Student\\Fetch.cshtml",
-              "RelativeDocumentMoniker": "CRUD\\Views\\Student\\Fetch.cshtml",
-              "ToolTip": "D:\\cSharp\\CRUD\\CRUD\\Views\\Student\\Fetch.cshtml",
-              "RelativeToolTip": "CRUD\\Views\\Student\\Fetch.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAABKAAAAAAAAAA==",
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\cSharp\\CRUD\\CRUD\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CRUD\\Models\\Product.cs",
+              "ToolTip": "D:\\cSharp\\CRUD\\CRUD\\Models\\Product.cs",
+              "RelativeToolTip": "CRUD\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:09:07.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\cSharp\\CRUD\\CRUD\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\cSharp\\CRUD\\CRUD\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "CRUD\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T17:11:17.304Z",
+              "WhenOpened": "2025-03-25T15:58:11.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\cSharp\\CRUD\\CRUD\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\cSharp\\CRUD\\CRUD\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "CRUD\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T15:42:26.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\cSharp\\CRUD\\CRUD\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CRUD\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\cSharp\\CRUD\\CRUD\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CRUD\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwB0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:40:56.697Z",
               "EditorCaption": ""
             }
           ]
