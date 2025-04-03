@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cIpo8noVWBFq6o65FlxWcNjGv7EQTU5mCwnCOOSKX9Q=",
+  "Hash": "BNJMNcZt76oHfmQZYCsw7LWm3cxC+rGSFg5Xbuj509o=",
   "Source": "CRUD",
   "BasePath": "_content/CRUD",
   "Mode": "Default",
@@ -120,6 +120,90 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\brown3.webp"
+    },
+    {
+      "Identity": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\images\\Chouhdry Rizwan --wordpress.png",
+      "SourceId": "CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\",
+      "BasePath": "_content/CRUD",
+      "RelativePath": "images/Chouhdry Rizwan --wordpress#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ai5smjfh3z",
+      "Integrity": "HsNaNMP0GfOHCCishM1giKc67Nafw2rKSrImfmLPGG8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Chouhdry Rizwan --wordpress.png"
+    },
+    {
+      "Identity": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\images\\product5.jpg",
+      "SourceId": "CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\",
+      "BasePath": "_content/CRUD",
+      "RelativePath": "images/product5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qqz8xufmc9",
+      "Integrity": "8s9ema+gB/EcVrsS4+vQrnwJrrYgdRVsZVlcQiQrlsU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product5.jpg"
+    },
+    {
+      "Identity": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\images\\Sir Rizwan Task.mp4",
+      "SourceId": "CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\",
+      "BasePath": "_content/CRUD",
+      "RelativePath": "images/Sir Rizwan Task#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kjrl7qvulv",
+      "Integrity": "UAL5WhEi9Rb6f4r2/6FmI40i6RleEQQ3aXzlh7qLH2E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Sir Rizwan Task.mp4"
+    },
+    {
+      "Identity": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\images\\wp_task.png",
+      "SourceId": "CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\",
+      "BasePath": "_content/CRUD",
+      "RelativePath": "images/wp_task#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1jpzu2lcw9",
+      "Integrity": "/eGKwTmSpW4ofRF0Ft1nNLK4wRKSx2556IuL9kjH4dM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\wp_task.png"
     },
     {
       "Identity": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\js\\site.js",
@@ -1748,6 +1832,334 @@
         {
           "Name": "integrity",
           "Value": "sha256-y0iHtFZ8/A+ljyabXyDG38Lf5v+eiqv/vRrynDmPFLE="
+        }
+      ]
+    },
+    {
+      "Route": "images/Chouhdry Rizwan --wordpress.ai5smjfh3z.png",
+      "AssetFile": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\images\\Chouhdry Rizwan --wordpress.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "466979"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HsNaNMP0GfOHCCishM1giKc67Nafw2rKSrImfmLPGG8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 14:45:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ai5smjfh3z"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Chouhdry Rizwan --wordpress.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HsNaNMP0GfOHCCishM1giKc67Nafw2rKSrImfmLPGG8="
+        }
+      ]
+    },
+    {
+      "Route": "images/Chouhdry Rizwan --wordpress.png",
+      "AssetFile": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\images\\Chouhdry Rizwan --wordpress.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "466979"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HsNaNMP0GfOHCCishM1giKc67Nafw2rKSrImfmLPGG8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 14:45:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HsNaNMP0GfOHCCishM1giKc67Nafw2rKSrImfmLPGG8="
+        }
+      ]
+    },
+    {
+      "Route": "images/product5.jpg",
+      "AssetFile": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\images\\product5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60038"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8s9ema+gB/EcVrsS4+vQrnwJrrYgdRVsZVlcQiQrlsU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 15:36:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8s9ema+gB/EcVrsS4+vQrnwJrrYgdRVsZVlcQiQrlsU="
+        }
+      ]
+    },
+    {
+      "Route": "images/product5.qqz8xufmc9.jpg",
+      "AssetFile": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\images\\product5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60038"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8s9ema+gB/EcVrsS4+vQrnwJrrYgdRVsZVlcQiQrlsU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 15:36:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qqz8xufmc9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8s9ema+gB/EcVrsS4+vQrnwJrrYgdRVsZVlcQiQrlsU="
+        }
+      ]
+    },
+    {
+      "Route": "images/Sir Rizwan Task.kjrl7qvulv.mp4",
+      "AssetFile": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\images\\Sir Rizwan Task.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15217664"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UAL5WhEi9Rb6f4r2/6FmI40i6RleEQQ3aXzlh7qLH2E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 15:35:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kjrl7qvulv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Sir Rizwan Task.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UAL5WhEi9Rb6f4r2/6FmI40i6RleEQQ3aXzlh7qLH2E="
+        }
+      ]
+    },
+    {
+      "Route": "images/Sir Rizwan Task.mp4",
+      "AssetFile": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\images\\Sir Rizwan Task.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15217664"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UAL5WhEi9Rb6f4r2/6FmI40i6RleEQQ3aXzlh7qLH2E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 15:35:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UAL5WhEi9Rb6f4r2/6FmI40i6RleEQQ3aXzlh7qLH2E="
+        }
+      ]
+    },
+    {
+      "Route": "images/wp_task.1jpzu2lcw9.png",
+      "AssetFile": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\images\\wp_task.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184651"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/eGKwTmSpW4ofRF0Ft1nNLK4wRKSx2556IuL9kjH4dM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 14:49:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1jpzu2lcw9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/wp_task.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/eGKwTmSpW4ofRF0Ft1nNLK4wRKSx2556IuL9kjH4dM="
+        }
+      ]
+    },
+    {
+      "Route": "images/wp_task.png",
+      "AssetFile": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\images\\wp_task.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184651"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/eGKwTmSpW4ofRF0Ft1nNLK4wRKSx2556IuL9kjH4dM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 14:49:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/eGKwTmSpW4ofRF0Ft1nNLK4wRKSx2556IuL9kjH4dM="
         }
       ]
     },

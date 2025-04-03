@@ -1,2 +1,37 @@
-﻿<h1>Products</h1>
-<a asp-controller="Product" asp-action="Create">Create</a>
+﻿@using CRUD.Models
+@model List<Product>
+
+<h1>Products</h1>
+<a asp-action="create" asp-controller="Product">Create New</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Name</th>
+            <th scope="col">Image</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int count = 1;
+        }
+        @foreach (var prod in Model)
+        {
+            <tr>
+                <td>@count</td>
+                <td>@prod.prodName</td>
+                <td>
+                    <img src="~/images/@prod.prodImage" alt="Alternate Text" height="100" width="auto" />
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@prod.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@prod.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@prod.Id" onclick="return confirm('Are you sure you want to delete this student?');">Delete</a>
+                </td>
+            </tr>
+            count++;
+        }
+    </tbody>
+</table>

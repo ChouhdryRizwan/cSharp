@@ -1,0 +1,18 @@
+﻿@using CRUD.Models
+@model Product
+<br />
+<h1> Edit @Model.prodName</h1>
+<a asp-action="Index">Back</a>
+<br />
+<form asp-controller="Product" asp-action="Edit" method="post" enctype="multipart/form-data">
+
+	<label>Name</label>
+	<input type="text" name="prodId" value="@Model.Id" hidden />
+	<input type="text" name="prodName" value="@Model.prodName" />
+	<br />
+	<label>Image</label>
+	<input type="file" name="prodImage" />
+	<br />
+	<input type="submit" name="Submit" />
+</form>
+<img src="~/images/@Model.prodImage" alt="Alternate Text" height="200" width="auto" />

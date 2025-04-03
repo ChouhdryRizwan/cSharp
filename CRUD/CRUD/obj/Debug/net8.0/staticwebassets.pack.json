@@ -13,8 +13,24 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\images\\Chouhdry Rizwan --wordpress.png",
+      "PackagePath": "staticwebassets\\images\\Chouhdry Rizwan --wordpress.png"
+    },
+    {
+      "Id": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\images\\Sir Rizwan Task.mp4",
+      "PackagePath": "staticwebassets\\images\\Sir Rizwan Task.mp4"
+    },
+    {
       "Id": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\images\\brown3.webp",
       "PackagePath": "staticwebassets\\images\\brown3.webp"
+    },
+    {
+      "Id": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\images\\product5.jpg",
+      "PackagePath": "staticwebassets\\images\\product5.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\images\\wp_task.png",
+      "PackagePath": "staticwebassets\\images\\wp_task.png"
     },
     {
       "Id": "D:\\cSharp\\CRUD\\CRUD\\wwwroot\\js\\site.js",
