@@ -1,0 +1,15 @@
+D:\cSharp\AdvanceConcepts\AdvanceConcepts\bin\Debug\net8.0\AdvanceConcepts.exe
+D:\cSharp\AdvanceConcepts\AdvanceConcepts\bin\Debug\net8.0\AdvanceConcepts.deps.json
+D:\cSharp\AdvanceConcepts\AdvanceConcepts\bin\Debug\net8.0\AdvanceConcepts.runtimeconfig.json
+D:\cSharp\AdvanceConcepts\AdvanceConcepts\bin\Debug\net8.0\AdvanceConcepts.dll
+D:\cSharp\AdvanceConcepts\AdvanceConcepts\bin\Debug\net8.0\AdvanceConcepts.pdb
+D:\cSharp\AdvanceConcepts\AdvanceConcepts\obj\Debug\net8.0\AdvanceConcepts.GeneratedMSBuildEditorConfig.editorconfig
+D:\cSharp\AdvanceConcepts\AdvanceConcepts\obj\Debug\net8.0\AdvanceConcepts.AssemblyInfoInputs.cache
+D:\cSharp\AdvanceConcepts\AdvanceConcepts\obj\Debug\net8.0\AdvanceConcepts.AssemblyInfo.cs
+D:\cSharp\AdvanceConcepts\AdvanceConcepts\obj\Debug\net8.0\AdvanceConcepts.csproj.CoreCompileInputs.cache
+D:\cSharp\AdvanceConcepts\AdvanceConcepts\obj\Debug\net8.0\AdvanceConcepts.sourcelink.json
+D:\cSharp\AdvanceConcepts\AdvanceConcepts\obj\Debug\net8.0\AdvanceConcepts.dll
+D:\cSharp\AdvanceConcepts\AdvanceConcepts\obj\Debug\net8.0\refint\AdvanceConcepts.dll
+D:\cSharp\AdvanceConcepts\AdvanceConcepts\obj\Debug\net8.0\AdvanceConcepts.pdb
+D:\cSharp\AdvanceConcepts\AdvanceConcepts\obj\Debug\net8.0\AdvanceConcepts.genruntimeconfig.cache
+D:\cSharp\AdvanceConcepts\AdvanceConcepts\obj\Debug\net8.0\ref\AdvanceConcepts.dll

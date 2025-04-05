@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cSharp\\AdvanceConcepts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D94B67E4-0492-4A3E-B1CB-9ABC93E69FB4}|AdvanceConcepts\\AdvanceConcepts.csproj|d:\\csharp\\advanceconcepts\\advanceconcepts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D94B67E4-0492-4A3E-B1CB-9ABC93E69FB4}|AdvanceConcepts\\AdvanceConcepts.csproj|solutionrelative:advanceconcepts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94B67E4-0492-4A3E-B1CB-9ABC93E69FB4}|AdvanceConcepts\\AdvanceConcepts.csproj|d:\\csharp\\advanceconcepts\\advanceconcepts\\anonymous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D94B67E4-0492-4A3E-B1CB-9ABC93E69FB4}|AdvanceConcepts\\AdvanceConcepts.csproj|solutionrelative:advanceconcepts\\anonymous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Anonymous.cs",
+              "DocumentMoniker": "D:\\cSharp\\AdvanceConcepts\\AdvanceConcepts\\Anonymous.cs",
+              "RelativeDocumentMoniker": "AdvanceConcepts\\Anonymous.cs",
+              "ToolTip": "D:\\cSharp\\AdvanceConcepts\\AdvanceConcepts\\Anonymous.cs",
+              "RelativeToolTip": "AdvanceConcepts\\Anonymous.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T15:32:22.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\cSharp\\AdvanceConcepts\\AdvanceConcepts\\Program.cs",
+              "RelativeDocumentMoniker": "AdvanceConcepts\\Program.cs",
+              "ToolTip": "D:\\cSharp\\AdvanceConcepts\\AdvanceConcepts\\Program.cs",
+              "RelativeToolTip": "AdvanceConcepts\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T14:52:47.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
