@@ -2,23 +2,27 @@
 
 public class Program
 {
+    // No parameter
+    Action show = () => Console.WriteLine("Hello, World!");
+
+    // With parameter
+    Action<string> welcome = name => Console.WriteLine("Welcome " + name);
+
+    //calculation
+    static Func<int, int, int> add = (a, b) => a + b;
 
 
     public static void Main()
     {
-        string msg = "Hello from ChatGPT";
-        int count = msg.WordCount();  // Bas aise!
+        Program p = new Program();
+        //p.show();
+        //p.welcome("Ali");
 
-        Console.WriteLine(count);  // Output: 3
+        int result = add(10, 20);
+        Console.WriteLine("Addition: " + result); 
 
     }
 }
 
-public static class MyExtensions
-{
-    public static int WordCount(this string str)
-    {
-        return str.Split(' ').Length;
-    }
-}
+
 
