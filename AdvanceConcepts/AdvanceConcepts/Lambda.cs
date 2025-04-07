@@ -9,7 +9,7 @@
 //    Action<string> welcome = name => Console.WriteLine("Welcome " + name);
 
 //    //calculation
-//    static Func<int, int, int> add = (a, b) => a + b;
+//    static Func<int, int, int> add = (a, b) => a + b; //Func<T1, T2, TResult>
 
 
 //    public static void Main()

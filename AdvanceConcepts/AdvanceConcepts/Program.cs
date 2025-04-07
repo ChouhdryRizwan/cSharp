@@ -1,28 +1,25 @@
 ﻿using System;
+using System.Threading.Tasks;
 
 public class Program
 {
-    // No parameter
-    Action show = () => Console.WriteLine("Hello, World!");
-
-    // With parameter
-    Action<string> welcome = name => Console.WriteLine("Welcome " + name);
-
-    //calculation
-    static Func<int, int, int> add = (a, b) => a + b;
-
-
-    public static void Main()
+    // Asynchronous method to simulate number printing with delay
+    public static async Task PrintNumbersAsync()
     {
-        Program p = new Program();
-        //p.show();
-        //p.welcome("Ali");
+        for (int i = 1; i <= 5; i++)
+        {
+            Console.WriteLine(i);
+            await Task.Delay(1000);  // Asynchronous delay for 1 second
+        }
+    }
 
-        int result = add(10, 20);
-        Console.WriteLine("Addition: " + result); 
+    public static async Task Main()
+    {
+        Console.WriteLine("Main thread is running...");
 
+        // Calling the asynchronous method
+        await PrintNumbersAsync();  // Wait for PrintNumbersAsync to complete
+
+        Console.WriteLine("Main thread has finished.");
     }
 }
-
-
-

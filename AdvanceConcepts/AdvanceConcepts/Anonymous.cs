@@ -25,3 +25,15 @@
 //        Console.WriteLine("Addition Result: " + result);
 //    }
 //}
+
+
+//Annonymous Type
+
+//    var student = new
+//                  {
+//                      Name = "Ali",
+//                      Age = 22,
+//                      Course = "Computer Science"
+//                  };
+
+//Console.WriteLine(student.Name); // Output: Ali

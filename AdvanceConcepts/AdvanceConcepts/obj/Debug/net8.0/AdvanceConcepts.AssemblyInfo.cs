@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdvanceConcepts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b85ac863e0d54d1752f2ee1dbe5995d18cd9906")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61069c52f816d3d6a27a696b66b6d4b874a933ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdvanceConcepts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdvanceConcepts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
