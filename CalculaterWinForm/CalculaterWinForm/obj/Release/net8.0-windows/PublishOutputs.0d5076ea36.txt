@@ -1,0 +1,5 @@
+C:\Users\dell\OneDrive\Desktop\CalculaterWinForm.exe
+C:\Users\dell\OneDrive\Desktop\CalculaterWinForm.dll
+C:\Users\dell\OneDrive\Desktop\CalculaterWinForm.deps.json
+C:\Users\dell\OneDrive\Desktop\CalculaterWinForm.runtimeconfig.json
+C:\Users\dell\OneDrive\Desktop\CalculaterWinForm.pdb

@@ -1,0 +1,17 @@
+D:\cSharp\CalculaterWinForm\CalculaterWinForm\bin\Debug\net8.0-windows\CalculaterWinForm.exe
+D:\cSharp\CalculaterWinForm\CalculaterWinForm\bin\Debug\net8.0-windows\CalculaterWinForm.deps.json
+D:\cSharp\CalculaterWinForm\CalculaterWinForm\bin\Debug\net8.0-windows\CalculaterWinForm.runtimeconfig.json
+D:\cSharp\CalculaterWinForm\CalculaterWinForm\bin\Debug\net8.0-windows\CalculaterWinForm.dll
+D:\cSharp\CalculaterWinForm\CalculaterWinForm\bin\Debug\net8.0-windows\CalculaterWinForm.pdb
+D:\cSharp\CalculaterWinForm\CalculaterWinForm\obj\Debug\net8.0-windows\CalculaterWinForm.Form1.resources
+D:\cSharp\CalculaterWinForm\CalculaterWinForm\obj\Debug\net8.0-windows\CalculaterWinForm.csproj.GenerateResource.cache
+D:\cSharp\CalculaterWinForm\CalculaterWinForm\obj\Debug\net8.0-windows\CalculaterWinForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\cSharp\CalculaterWinForm\CalculaterWinForm\obj\Debug\net8.0-windows\CalculaterWinForm.AssemblyInfoInputs.cache
+D:\cSharp\CalculaterWinForm\CalculaterWinForm\obj\Debug\net8.0-windows\CalculaterWinForm.AssemblyInfo.cs
+D:\cSharp\CalculaterWinForm\CalculaterWinForm\obj\Debug\net8.0-windows\CalculaterWinForm.csproj.CoreCompileInputs.cache
+D:\cSharp\CalculaterWinForm\CalculaterWinForm\obj\Debug\net8.0-windows\CalculaterWinForm.sourcelink.json
+D:\cSharp\CalculaterWinForm\CalculaterWinForm\obj\Debug\net8.0-windows\CalculaterWinForm.dll
+D:\cSharp\CalculaterWinForm\CalculaterWinForm\obj\Debug\net8.0-windows\refint\CalculaterWinForm.dll
+D:\cSharp\CalculaterWinForm\CalculaterWinForm\obj\Debug\net8.0-windows\CalculaterWinForm.pdb
+D:\cSharp\CalculaterWinForm\CalculaterWinForm\obj\Debug\net8.0-windows\CalculaterWinForm.genruntimeconfig.cache
+D:\cSharp\CalculaterWinForm\CalculaterWinForm\obj\Debug\net8.0-windows\ref\CalculaterWinForm.dll
