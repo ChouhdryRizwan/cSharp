@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6HcXDrUJjCfhSCkUamlTuP2V9MP6gG+GuZpzWhkVdnM=",
+  "Source": "APIcrud",
+  "BasePath": "_content/APIcrud",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
