@@ -1,0 +1,15 @@
+D:\cSharp\firstApp\firstApp\bin\Debug\net8.0\firstApp.exe
+D:\cSharp\firstApp\firstApp\bin\Debug\net8.0\firstApp.deps.json
+D:\cSharp\firstApp\firstApp\bin\Debug\net8.0\firstApp.runtimeconfig.json
+D:\cSharp\firstApp\firstApp\bin\Debug\net8.0\firstApp.dll
+D:\cSharp\firstApp\firstApp\bin\Debug\net8.0\firstApp.pdb
+D:\cSharp\firstApp\firstApp\obj\Debug\net8.0\firstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\cSharp\firstApp\firstApp\obj\Debug\net8.0\firstApp.AssemblyInfoInputs.cache
+D:\cSharp\firstApp\firstApp\obj\Debug\net8.0\firstApp.AssemblyInfo.cs
+D:\cSharp\firstApp\firstApp\obj\Debug\net8.0\firstApp.csproj.CoreCompileInputs.cache
+D:\cSharp\firstApp\firstApp\obj\Debug\net8.0\firstApp.sourcelink.json
+D:\cSharp\firstApp\firstApp\obj\Debug\net8.0\firstApp.dll
+D:\cSharp\firstApp\firstApp\obj\Debug\net8.0\refint\firstApp.dll
+D:\cSharp\firstApp\firstApp\obj\Debug\net8.0\firstApp.pdb
+D:\cSharp\firstApp\firstApp\obj\Debug\net8.0\firstApp.genruntimeconfig.cache
+D:\cSharp\firstApp\firstApp\obj\Debug\net8.0\ref\firstApp.dll
