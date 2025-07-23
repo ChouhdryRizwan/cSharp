@@ -1,0 +1,12 @@
+﻿@model Student;
+<h1>Update Student</h1>
+
+
+<form asp-action="Edit" method="post" asp-route-id="@Model.Id">
+	Name: <input asp-for="Name" value="@Model.Name" /> <br />
+	Email : <input asp-for="Email" value="@Model.Email" /><br />
+	Mobile: <input asp-for="PhoneNumber" value="@Model.PhoneNumber" /><br />
+	Address: <input asp-for="Address" value="@Model.Address" /><br />
+
+	<input type="submit" name="Update" />
+</form>

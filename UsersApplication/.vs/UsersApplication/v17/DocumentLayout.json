@@ -11,8 +11,24 @@
       "RelativeMoniker": "D:0:0:{28FF238D-9984-415D-A18B-D6E06B078E32}|UsersApplication\\UsersApplication.csproj|solutionrelative:usersapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{28FF238D-9984-415D-A18B-D6E06B078E32}|UsersApplication\\UsersApplication.csproj|d:\\csharp\\usersapplication\\usersapplication\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28FF238D-9984-415D-A18B-D6E06B078E32}|UsersApplication\\UsersApplication.csproj|solutionrelative:usersapplication\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FF238D-9984-415D-A18B-D6E06B078E32}|UsersApplication\\UsersApplication.csproj|d:\\csharp\\usersapplication\\usersapplication\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28FF238D-9984-415D-A18B-D6E06B078E32}|UsersApplication\\UsersApplication.csproj|solutionrelative:usersapplication\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{28FF238D-9984-415D-A18B-D6E06B078E32}|UsersApplication\\UsersApplication.csproj|d:\\csharp\\usersapplication\\usersapplication\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{28FF238D-9984-415D-A18B-D6E06B078E32}|UsersApplication\\UsersApplication.csproj|solutionrelative:usersapplication\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FF238D-9984-415D-A18B-D6E06B078E32}|UsersApplication\\UsersApplication.csproj|d:\\csharp\\usersapplication\\usersapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28FF238D-9984-415D-A18B-D6E06B078E32}|UsersApplication\\UsersApplication.csproj|solutionrelative:usersapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FF238D-9984-415D-A18B-D6E06B078E32}|UsersApplication\\UsersApplication.csproj|d:\\csharp\\usersapplication\\usersapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FF238D-9984-415D-A18B-D6E06B078E32}|UsersApplication\\UsersApplication.csproj|solutionrelative:usersapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +38,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\cSharp\\UsersApplication\\UsersApplication\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "UsersApplication\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\cSharp\\UsersApplication\\UsersApplication\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "UsersApplication\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T06:34:50.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\cSharp\\UsersApplication\\UsersApplication\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "UsersApplication\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "D:\\cSharp\\UsersApplication\\UsersApplication\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "UsersApplication\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T06:28:40.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\cSharp\\UsersApplication\\UsersApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "UsersApplication\\appsettings.json",
+              "ToolTip": "D:\\cSharp\\UsersApplication\\UsersApplication\\appsettings.json",
+              "RelativeToolTip": "UsersApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-23T06:11:23.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\cSharp\\UsersApplication\\UsersApplication\\Program.cs",
+              "RelativeDocumentMoniker": "UsersApplication\\Program.cs",
+              "ToolTip": "D:\\cSharp\\UsersApplication\\UsersApplication\\Program.cs",
+              "RelativeToolTip": "UsersApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:11:20.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\cSharp\\UsersApplication\\UsersApplication\\Views\\Home\\Create.cshtml",
               "RelativeDocumentMoniker": "UsersApplication\\Views\\Home\\Create.cshtml",
               "ToolTip": "D:\\cSharp\\UsersApplication\\UsersApplication\\Views\\Home\\Create.cshtml",
               "RelativeToolTip": "UsersApplication\\Views\\Home\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-21T07:30:47.735Z",
               "EditorCaption": ""
@@ -45,7 +113,7 @@
               "RelativeDocumentMoniker": "UsersApplication\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\cSharp\\UsersApplication\\UsersApplication\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "UsersApplication\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-21T07:12:02.692Z",
               "EditorCaption": ""
@@ -58,7 +126,7 @@
               "RelativeDocumentMoniker": "UsersApplication\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\cSharp\\UsersApplication\\UsersApplication\\Controllers\\HomeController.cs",
               "RelativeToolTip": "UsersApplication\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwCQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwBwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T07:08:47.912Z",
               "EditorCaption": ""

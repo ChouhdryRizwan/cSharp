@@ -1,26 +1,46 @@
 ﻿@model List<Student>
 <h1>Students</h1>
-<a asp-controller="Home" asp-action="Create"></a>
-<table>
-    <thead>
-        <th>Name</th>
-        <th>Email</th>
-        <th>Address</th>
-    </thead>
+<a asp-controller="Home" asp-action="Create">Create</a>
+@{
+	if (TempData["success"] != null){
+		<span style="color:green" id="success">@TempData["success"]</span>
+	}
+}
+<table class="table table-bordered">
+	<thead>
+	<th>S.No</th>
+	<th>Name</th>
+	<th>Email</th>
+	<th>Address</th>
+	<th>Actions</th>
+	</thead>
 
-   <tbody>
-        @{
-            int count = 1;
-        }
-        @foreach (var std in Model)
-        {
-            <tr>
-                <td>@count</td>
-                <td>@std.Name</td>
-                <td>@std.Email</td>
-                <td>@std.Address</td>
-            </tr>
-            count++;
-        }
-    </tbody>
+	<tbody>
+		@{
+			int count = 1;
+		}
+		@foreach (var std in Model)
+		{
+			<tr>
+				<td>@count</td>
+				<td>@std.Name</td>
+				<td>@std.Email</td>
+				<td>@std.Address</td>
+				<td>
+					<a asp-controller="Home" asp-action="Edit" asp-route-id="@std.Id">Edit</a> |
+					<a asp-controller="Home" asp-action="Details" asp-route-id="@std.Id">Details</a> |
+					<a asp-controller="Home" asp-action="Delete" asp-route-id="@std.Id" onclick="return confirm('Are you sure you want to delete this Record?');">Delete</a>
+				</td>
+			</tr>
+			count++;
+		}
+	</tbody>
 </table>
+
+
+<script>
+ let success = document.getElementById('success');
+ setTimeout(()=>{
+	success.style.display = "none";
+ },2000)
+</script>
