@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\cSharp\\UsersApplication\\UsersApplication\\wwwroot\\images\\1st.png",
+      "PackagePath": "staticwebassets\\images\\1st.png"
+    },
+    {
+      "Id": "D:\\cSharp\\UsersApplication\\UsersApplication\\wwwroot\\images\\nexus.webp",
+      "PackagePath": "staticwebassets\\images\\nexus.webp"
+    },
+    {
       "Id": "D:\\cSharp\\UsersApplication\\UsersApplication\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

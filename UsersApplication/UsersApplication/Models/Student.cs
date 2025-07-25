@@ -15,6 +15,9 @@ namespace UsersApplication.Models
         public string PhoneNumber { get; set; }
         [Column("StudentAddress", TypeName = "varchar(250)")]
         public string Address { get; set; }
+
+        [Column("StudentImage", TypeName = "varchar(250)")]
+        public string? image { get; set; }
         public DateTime CreatedAt { get; set; } = DateTime.Now;
         public DateTime UpdatedAt { get; set; } = DateTime.Now;
     }
