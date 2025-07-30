@@ -56,7 +56,6 @@ namespace CRUD.Controllers
                 string filePath = Path.Combine(_env.WebRootPath, "images", fileName);
                 FileStream fs = new FileStream(filePath, FileMode.Create);
                 prodImage.CopyTo(fs);
-               
                 prod.prodImage = fileName;
             }
             else

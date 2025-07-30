@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\cSharp\\UsersApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28FF238D-9984-415D-A18B-D6E06B078E32}|UsersApplication\\UsersApplication.csproj|d:\\csharp\\usersapplication\\usersapplication\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{28FF238D-9984-415D-A18B-D6E06B078E32}|UsersApplication\\UsersApplication.csproj|solutionrelative:usersapplication\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28FF238D-9984-415D-A18B-D6E06B078E32}|UsersApplication\\UsersApplication.csproj|d:\\csharp\\usersapplication\\usersapplication\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28FF238D-9984-415D-A18B-D6E06B078E32}|UsersApplication\\UsersApplication.csproj|solutionrelative:usersapplication\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28FF238D-9984-415D-A18B-D6E06B078E32}|UsersApplication\\UsersApplication.csproj|d:\\csharp\\usersapplication\\usersapplication\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{28FF238D-9984-415D-A18B-D6E06B078E32}|UsersApplication\\UsersApplication.csproj|solutionrelative:usersapplication\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{28FF238D-9984-415D-A18B-D6E06B078E32}|UsersApplication\\UsersApplication.csproj|d:\\csharp\\usersapplication\\usersapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28FF238D-9984-415D-A18B-D6E06B078E32}|UsersApplication\\UsersApplication.csproj|solutionrelative:usersapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28FF238D-9984-415D-A18B-D6E06B078E32}|UsersApplication\\UsersApplication.csproj|d:\\csharp\\usersapplication\\usersapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28FF238D-9984-415D-A18B-D6E06B078E32}|UsersApplication\\UsersApplication.csproj|solutionrelative:usersapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FF238D-9984-415D-A18B-D6E06B078E32}|UsersApplication\\UsersApplication.csproj|d:\\csharp\\usersapplication\\usersapplication\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28FF238D-9984-415D-A18B-D6E06B078E32}|UsersApplication\\UsersApplication.csproj|solutionrelative:usersapplication\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FF238D-9984-415D-A18B-D6E06B078E32}|UsersApplication\\UsersApplication.csproj|d:\\csharp\\usersapplication\\usersapplication\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28FF238D-9984-415D-A18B-D6E06B078E32}|UsersApplication\\UsersApplication.csproj|solutionrelative:usersapplication\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +26,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\cSharp\\UsersApplication\\UsersApplication\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "UsersApplication\\Views\\Home\\Create.cshtml",
+              "ToolTip": "D:\\cSharp\\UsersApplication\\UsersApplication\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "UsersApplication\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T07:28:04.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\cSharp\\UsersApplication\\UsersApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "UsersApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\cSharp\\UsersApplication\\UsersApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "UsersApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T07:25:57.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\cSharp\\UsersApplication\\UsersApplication\\Views\\Home\\Edit.cshtml",
               "RelativeDocumentMoniker": "UsersApplication\\Views\\Home\\Edit.cshtml",
               "ToolTip": "D:\\cSharp\\UsersApplication\\UsersApplication\\Views\\Home\\Edit.cshtml",
               "RelativeToolTip": "UsersApplication\\Views\\Home\\Edit.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-25T07:50:32.028Z",
               "EditorCaption": ""
@@ -44,38 +70,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\cSharp\\UsersApplication\\UsersApplication\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "UsersApplication\\Models\\Student.cs",
-              "ToolTip": "D:\\cSharp\\UsersApplication\\UsersApplication\\Models\\Student.cs",
-              "RelativeToolTip": "UsersApplication\\Models\\Student.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBMAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T07:19:27.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\cSharp\\UsersApplication\\UsersApplication\\Views\\Home\\Create.cshtml",
-              "RelativeDocumentMoniker": "UsersApplication\\Views\\Home\\Create.cshtml",
-              "ToolTip": "D:\\cSharp\\UsersApplication\\UsersApplication\\Views\\Home\\Create.cshtml",
-              "RelativeToolTip": "UsersApplication\\Views\\Home\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-25T07:19:18.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\cSharp\\UsersApplication\\UsersApplication\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "UsersApplication\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\cSharp\\UsersApplication\\UsersApplication\\Controllers\\HomeController.cs",
               "RelativeToolTip": "UsersApplication\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAAAFQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwB0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-25T07:25:55.46Z",
               "EditorCaption": ""

@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using UsersApplication.Migrations;
 
 namespace UsersApplication.Models
 {
@@ -8,5 +9,6 @@ namespace UsersApplication.Models
         {
         }
         public DbSet<Student> Students { get; set; }
+        public DbSet<Course> Courses { get; set; }
     }
 }

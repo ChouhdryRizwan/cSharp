@@ -1,5 +1,6 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using UsersApplication.Models;
 
@@ -19,11 +20,16 @@ namespace UsersApplication.Controllers
         public IActionResult Index()
         {
 
-            var students = dBContext.Students.ToList();
+            var students = dBContext.Students
+                             .Include(s => s.Course) // Join with Course
+                             .ToList();
+
             return View(students);
         }
 
         public IActionResult Create() {
+            var courses = dBContext.Courses.ToList();
+            ViewBag.CourseList = new SelectList(courses, "Id", "CourseName");
             return View();
         }
 
@@ -56,6 +62,10 @@ namespace UsersApplication.Controllers
             {
                 return NotFound();
             }
+
+            var courses = dBContext.Courses.ToList();
+            ViewBag.CourseList = new SelectList(courses, "Id", "CourseName", student.CourseId);
+
             return View(student);
         }
 
@@ -63,28 +73,25 @@ namespace UsersApplication.Controllers
         public IActionResult Edit(Student std, IFormFile image)
         {
 
-            if (ModelState.IsValid)
+
+            if (image != null)
             {
-                if (std.image != null) {
-                    
-                        string fileName = Path.GetFileName(image.FileName);
-                        string filePath = Path.Combine(env.WebRootPath, "images", fileName);
-                        FileStream fs = new FileStream(filePath, FileMode.Create);
-                        image.CopyTo(fs);
-                        std.image = fileName;
-                }
-                else {
+                string fileName = Path.GetFileName(image.FileName);
+                string filePath = Path.Combine(env.WebRootPath, "images", fileName);
+                FileStream fs = new FileStream(filePath, FileMode.Create);
+                image.CopyTo(fs);
+                std.image = fileName;
+            }
+            else
+            {
 
-                    var existingstudent = dBContext.Students.Find(std.Id);
-                    std.image = existingstudent.image;
-                }
-
-                dBContext.Students.Update(std);
-                dBContext.SaveChanges();
-                return RedirectToAction("Index", "Home");
+                var existingstudent = dBContext.Students.Find(std.Id);
+                std.image = existingstudent.image;
             }
 
-            return View(std);
+            dBContext.Students.Update(std);
+            dBContext.SaveChanges();
+            return RedirectToAction("Index", "Home");
         }
 
         public IActionResult Details(int id)

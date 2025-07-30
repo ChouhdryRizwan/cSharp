@@ -7,9 +7,15 @@
 	Email : <input asp-for="Email" value="@Model.Email" /><br />
 	Mobile: <input asp-for="PhoneNumber" value="@Model.PhoneNumber" /><br />
 	Address: <input asp-for="Address" value="@Model.Address" /><br />
+	Course:
+	<select asp-for="CourseId" asp-items="ViewBag.CourseList">
+		<option value="">-- Select Course --</option>
+	</select>
+	<br />
+
 	Image: <input type="file" asp-for="image" /><br />
 
-	<input type="submit" name="Update" />
+	<input type="submit" value="Update" />
 </form>
 @* {{@Model.image}} *@
 <img src="~/images/@Model.image" alt="Alternate Text" height="200" width="auto" />

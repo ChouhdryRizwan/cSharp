@@ -7,6 +7,13 @@
 	Email : <input asp-for="Email" /><br />
 	Mobile: <input asp-for="PhoneNumber" /><br />
 	Address: <input asp-for="Address" /><br />
+
+	Course:
+	<select asp-for="CourseId" asp-items="ViewBag.CourseList">
+		<option value="">-- Select Course --</option>
+	</select>
+	<br />
+
 	Image: <input type="file" asp-for="image" /><br />
 
 	<input type="submit" name="Submit" />
