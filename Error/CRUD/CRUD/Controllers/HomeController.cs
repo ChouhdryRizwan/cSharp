@@ -1,21 +1,22 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using CRUD.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace CRUD.Controllers;
 
 public class HomeController : Controller
 {
-    private readonly ILogger<HomeController> _logger;
-
-    public HomeController(ILogger<HomeController> logger)
+    private readonly eCommerceContext DbContext;
+    public HomeController(eCommerceContext NewContext, IWebHostEnvironment newenv)
     {
-        _logger = logger;
+        this.DbContext = NewContext;
     }
 
     public IActionResult Index()
     {
-        return View();
+        var products = DbContext.tbl_products.ToList();
+        return View(products);
     }
 
     public IActionResult Privacy()

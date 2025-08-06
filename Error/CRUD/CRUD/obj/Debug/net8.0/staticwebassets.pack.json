@@ -3277,6 +3277,10 @@
       "PackagePath": "staticwebassets\\images\\carbon (3).png"
     },
     {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\images\\certificate.PNG",
+      "PackagePath": "staticwebassets\\images\\certificate.PNG"
+    },
+    {
       "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\images\\oppo.jpg",
       "PackagePath": "staticwebassets\\images\\oppo.jpg"
     },
@@ -3519,6 +3523,598 @@
     {
       "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\css\\animate.css",
+      "PackagePath": "staticwebassets\\user\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\user\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\user\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\css\\fontawesome-stars.css",
+      "PackagePath": "staticwebassets\\user\\css\\fontawesome-stars.css"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\css\\helper.css",
+      "PackagePath": "staticwebassets\\user\\css\\helper.css"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\css\\images\\ui-bg_glass_75_d0e5f5_1x400.png",
+      "PackagePath": "staticwebassets\\user\\css\\images\\ui-bg_glass_75_d0e5f5_1x400.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\css\\images\\ui-bg_glass_85_dfeffc_1x400.png",
+      "PackagePath": "staticwebassets\\user\\css\\images\\ui-bg_glass_85_dfeffc_1x400.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\css\\images\\ui-bg_glass_95_fef1ec_1x400.png",
+      "PackagePath": "staticwebassets\\user\\css\\images\\ui-bg_glass_95_fef1ec_1x400.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\css\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png",
+      "PackagePath": "staticwebassets\\user\\css\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\css\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png",
+      "PackagePath": "staticwebassets\\user\\css\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\css\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png",
+      "PackagePath": "staticwebassets\\user\\css\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\css\\images\\ui-icons_217bc0_256x240.png",
+      "PackagePath": "staticwebassets\\user\\css\\images\\ui-icons_217bc0_256x240.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\css\\images\\ui-icons_2e83ff_256x240.png",
+      "PackagePath": "staticwebassets\\user\\css\\images\\ui-icons_2e83ff_256x240.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\css\\images\\ui-icons_469bdd_256x240.png",
+      "PackagePath": "staticwebassets\\user\\css\\images\\ui-icons_469bdd_256x240.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\css\\images\\ui-icons_6da8d5_256x240.png",
+      "PackagePath": "staticwebassets\\user\\css\\images\\ui-icons_6da8d5_256x240.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\css\\images\\ui-icons_cd0a0a_256x240.png",
+      "PackagePath": "staticwebassets\\user\\css\\images\\ui-icons_cd0a0a_256x240.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\css\\images\\ui-icons_d8e7f3_256x240.png",
+      "PackagePath": "staticwebassets\\user\\css\\images\\ui-icons_d8e7f3_256x240.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\css\\images\\ui-icons_f9bd01_256x240.png",
+      "PackagePath": "staticwebassets\\user\\css\\images\\ui-icons_f9bd01_256x240.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\user\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\user\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\user\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\user\\css\\meanmenu.css"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\user\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\user\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\css\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\user\\css\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\user\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\css\\slick.css",
+      "PackagePath": "staticwebassets\\user\\css\\slick.css"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\css\\venobox.css",
+      "PackagePath": "staticwebassets\\user\\css\\venobox.css"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\fonts\\Material-Design-Iconic-Fontd1f1.ttf",
+      "PackagePath": "staticwebassets\\user\\fonts\\Material-Design-Iconic-Fontd1f1.ttf"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\fonts\\Material-Design-Iconic-Fontd1f1.woff",
+      "PackagePath": "staticwebassets\\user\\fonts\\Material-Design-Iconic-Fontd1f1.woff"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\fonts\\Material-Design-Iconic-Fontd1f1.woff2",
+      "PackagePath": "staticwebassets\\user\\fonts\\Material-Design-Iconic-Fontd1f1.woff2"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\user\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\user\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\user\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\user\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\user\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\user\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\about-us\\icon\\1.png",
+      "PackagePath": "staticwebassets\\user\\images\\about-us\\icon\\1.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\about-us\\icon\\2.png",
+      "PackagePath": "staticwebassets\\user\\images\\about-us\\icon\\2.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\about-us\\icon\\3.png",
+      "PackagePath": "staticwebassets\\user\\images\\about-us\\icon\\3.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\about-us\\icon\\4.png",
+      "PackagePath": "staticwebassets\\user\\images\\about-us\\icon\\4.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\banner\\1_1.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\banner\\1_1.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\banner\\1_2.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\banner\\1_2.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\banner\\1_3.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\banner\\1_3.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\banner\\1_4.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\banner\\1_4.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\banner\\1_5.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\banner\\1_5.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\banner\\2_1.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\banner\\2_1.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\banner\\2_2.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\banner\\2_2.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\banner\\2_3.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\banner\\2_3.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\banner\\2_4.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\banner\\2_4.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\banner\\2_5.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\banner\\2_5.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\banner\\2_6.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\banner\\2_6.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\banner\\3_1.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\banner\\3_1.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\banner\\3_2.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\banner\\3_2.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\banner\\featured-banner.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\banner\\featured-banner.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\bg-banner\\1.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\bg-banner\\1.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\bg-banner\\2.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\bg-banner\\2.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\blog-banner\\1.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\blog-banner\\1.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\blog-banner\\2.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\blog-banner\\2.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\blog-banner\\3.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\blog-banner\\3.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\blog-banner\\5.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\blog-banner\\5.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\blog-banner\\6.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\blog-banner\\6.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\blog-banner\\bg-banner.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\blog-banner\\bg-banner.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\blog-banner\\large-size\\1.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\blog-banner\\large-size\\1.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\blog-banner\\large-size\\2.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\blog-banner\\large-size\\2.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\blog-banner\\large-size\\3.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\blog-banner\\large-size\\3.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\user\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\featured-product\\1.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\featured-product\\1.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\featured-product\\2.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\featured-product\\2.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\featured-product\\3.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\featured-product\\3.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\featured-product\\4.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\featured-product\\4.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\featured-product\\5.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\featured-product\\5.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\featured-product\\6.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\featured-product\\6.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\menu\\flag-icon\\1.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\menu\\flag-icon\\1.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\menu\\flag-icon\\2.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\menu\\flag-icon\\2.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\menu\\li-bg-menu.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\menu\\li-bg-menu.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\menu\\logo\\1.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\menu\\logo\\1.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\menu\\logo\\2.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\menu\\logo\\2.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\payment\\1.png",
+      "PackagePath": "staticwebassets\\user\\images\\payment\\1.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\product-details\\1.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\product-details\\1.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\product-details\\admin.png",
+      "PackagePath": "staticwebassets\\user\\images\\product-details\\admin.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\product-details\\user.png",
+      "PackagePath": "staticwebassets\\user\\images\\product-details\\user.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\product\\large-size\\1.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\product\\large-size\\1.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\product\\large-size\\10.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\product\\large-size\\10.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\product\\large-size\\11.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\product\\large-size\\11.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\product\\large-size\\12.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\product\\large-size\\12.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\product\\large-size\\13.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\product\\large-size\\13.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\product\\large-size\\2.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\product\\large-size\\2.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\product\\large-size\\3.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\product\\large-size\\3.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\product\\large-size\\4.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\product\\large-size\\4.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\product\\large-size\\5.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\product\\large-size\\5.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\product\\large-size\\6.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\product\\large-size\\6.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\product\\large-size\\7.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\product\\large-size\\7.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\product\\large-size\\8.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\product\\large-size\\8.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\product\\large-size\\9.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\product\\large-size\\9.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\product\\small-size\\1.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\product\\small-size\\1.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\product\\small-size\\2.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\product\\small-size\\2.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\product\\small-size\\3.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\product\\small-size\\3.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\product\\small-size\\4.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\product\\small-size\\4.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\product\\small-size\\5.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\product\\small-size\\5.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\product\\small-size\\6.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\product\\small-size\\6.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\shipping-icon\\1.png",
+      "PackagePath": "staticwebassets\\user\\images\\shipping-icon\\1.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\shipping-icon\\2.png",
+      "PackagePath": "staticwebassets\\user\\images\\shipping-icon\\2.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\shipping-icon\\3.png",
+      "PackagePath": "staticwebassets\\user\\images\\shipping-icon\\3.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\shipping-icon\\4.png",
+      "PackagePath": "staticwebassets\\user\\images\\shipping-icon\\4.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\slider\\1.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\slider\\1.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\slider\\10.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\slider\\10.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\slider\\11.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\slider\\11.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\slider\\12.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\slider\\12.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\slider\\2.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\slider\\2.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\slider\\3.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\slider\\3.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\slider\\4.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\slider\\4.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\slider\\5.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\slider\\5.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\slider\\6.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\slider\\6.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\slider\\7.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\slider\\7.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\slider\\8.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\slider\\8.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\slider\\9.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\slider\\9.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\static-top\\1.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\static-top\\1.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\team\\1.png",
+      "PackagePath": "staticwebassets\\user\\images\\team\\1.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\team\\2.png",
+      "PackagePath": "staticwebassets\\user\\images\\team\\2.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\team\\3.png",
+      "PackagePath": "staticwebassets\\user\\images\\team\\3.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\team\\4.png",
+      "PackagePath": "staticwebassets\\user\\images\\team\\4.png"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\wishlist-thumb\\1.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\wishlist-thumb\\1.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\wishlist-thumb\\2.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\wishlist-thumb\\2.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\images\\wishlist-thumb\\3.jpg",
+      "PackagePath": "staticwebassets\\user\\images\\wishlist-thumb\\3.jpg"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\js\\ajax-mail.js",
+      "PackagePath": "staticwebassets\\user\\js\\ajax-mail.js"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\js\\jquery.barrating.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\jquery.barrating.min.js"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\js\\jquery.meanmenu.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\jquery.meanmenu.min.js"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\js\\jquery.mixitup.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\jquery.mixitup.min.js"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\js\\main.js",
+      "PackagePath": "staticwebassets\\user\\js\\main.js"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\js\\scrollUp.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\scrollUp.min.js"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\slick.min.js"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\js\\vendor\\modernizr-2.8.3.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\vendor\\modernizr-2.8.3.min.js"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\js\\vendor\\popper.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\vendor\\popper.min.js"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\js\\venobox.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\venobox.min.js"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\wow.min.js"
+    },
+    {
+      "Id": "D:\\cSharp\\Error\\CRUD\\CRUD\\wwwroot\\user\\style.css",
+      "PackagePath": "staticwebassets\\user\\style.css"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CRUD.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
