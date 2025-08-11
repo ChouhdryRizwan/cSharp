@@ -1,5 +1,6 @@
 using System.Diagnostics;
 using authProject.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace authProject.Controllers
@@ -18,7 +19,20 @@ namespace authProject.Controllers
             return View();
         }
 
+        [Authorize(Roles = "admin")]
         public IActionResult Privacy()
+        {
+            return View();
+        }
+
+        [Authorize(Roles = "user")]
+        public IActionResult Shop()
+        {
+            return View();
+        }
+
+        [Authorize(Roles = "admin,user")]
+        public IActionResult Contact()
         {
             return View();
         }

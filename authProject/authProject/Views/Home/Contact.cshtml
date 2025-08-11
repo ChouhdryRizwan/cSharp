@@ -1,0 +1,10 @@
+﻿<h1>Contact Page</h1>
+
+@if (User.IsInRole("user"))
+{
+	<h1>For User</h1>
+}
+@if (User.IsInRole("admin"))
+{
+	<h1>For Admin</h1>
+}

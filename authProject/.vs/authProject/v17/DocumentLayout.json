@@ -3,40 +3,28 @@
   "WorkspaceRootPath": "D:\\cSharp\\authProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A2D69A6-EEFD-4E43-9327-C5AEE45D39B9}|authProject\\authProject.csproj|d:\\csharp\\authproject\\authproject\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7A2D69A6-EEFD-4E43-9327-C5AEE45D39B9}|authProject\\authProject.csproj|solutionrelative:authproject\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A2D69A6-EEFD-4E43-9327-C5AEE45D39B9}|authProject\\authProject.csproj|d:\\csharp\\authproject\\authproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7A2D69A6-EEFD-4E43-9327-C5AEE45D39B9}|authProject\\authProject.csproj|solutionrelative:authproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A2D69A6-EEFD-4E43-9327-C5AEE45D39B9}|authProject\\authProject.csproj|d:\\csharp\\authproject\\authproject\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A2D69A6-EEFD-4E43-9327-C5AEE45D39B9}|authProject\\authProject.csproj|solutionrelative:authproject\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A2D69A6-EEFD-4E43-9327-C5AEE45D39B9}|authProject\\authProject.csproj|d:\\csharp\\authproject\\authproject\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7A2D69A6-EEFD-4E43-9327-C5AEE45D39B9}|authProject\\authProject.csproj|solutionrelative:authproject\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7A2D69A6-EEFD-4E43-9327-C5AEE45D39B9}|authProject\\authProject.csproj|d:\\csharp\\authproject\\authproject\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2D69A6-EEFD-4E43-9327-C5AEE45D39B9}|authProject\\authProject.csproj|solutionrelative:authproject\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A2D69A6-EEFD-4E43-9327-C5AEE45D39B9}|authProject\\authProject.csproj|d:\\csharp\\authproject\\authproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A2D69A6-EEFD-4E43-9327-C5AEE45D39B9}|authProject\\authProject.csproj|solutionrelative:authproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A2D69A6-EEFD-4E43-9327-C5AEE45D39B9}|authProject\\authProject.csproj|d:\\csharp\\authproject\\authproject\\areas\\identity\\data\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A2D69A6-EEFD-4E43-9327-C5AEE45D39B9}|authProject\\authProject.csproj|solutionrelative:authproject\\areas\\identity\\data\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cSharp\\authProject\\authProject\\Migrations\\20250811080451_withRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:authProject\\Migrations\\20250811080451_withRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A2D69A6-EEFD-4E43-9327-C5AEE45D39B9}|authProject\\authProject.csproj|d:\\csharp\\authproject\\authproject\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7A2D69A6-EEFD-4E43-9327-C5AEE45D39B9}|authProject\\authProject.csproj|solutionrelative:authproject\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7A2D69A6-EEFD-4E43-9327-C5AEE45D39B9}|authProject\\authProject.csproj|d:\\csharp\\authproject\\authproject\\areas\\identity\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2D69A6-EEFD-4E43-9327-C5AEE45D39B9}|authProject\\authProject.csproj|solutionrelative:authproject\\areas\\identity\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A2D69A6-EEFD-4E43-9327-C5AEE45D39B9}|authProject\\authProject.csproj|d:\\csharp\\authproject\\authproject\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A2D69A6-EEFD-4E43-9327-C5AEE45D39B9}|authProject\\authProject.csproj|solutionrelative:authproject\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A2D69A6-EEFD-4E43-9327-C5AEE45D39B9}|authProject\\authProject.csproj|d:\\csharp\\authproject\\authproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7A2D69A6-EEFD-4E43-9327-C5AEE45D39B9}|authProject\\authProject.csproj|solutionrelative:authproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7A2D69A6-EEFD-4E43-9327-C5AEE45D39B9}|authProject\\authProject.csproj|d:\\csharp\\authproject\\authproject\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2D69A6-EEFD-4E43-9327-C5AEE45D39B9}|authProject\\authProject.csproj|solutionrelative:authproject\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A2D69A6-EEFD-4E43-9327-C5AEE45D39B9}|authProject\\authProject.csproj|d:\\csharp\\authproject\\authproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,130 +43,93 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "D:\\cSharp\\authProject\\authProject\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "authProject\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "D:\\cSharp\\authProject\\authProject\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "authProject\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAkwAoAAACZAAAAAAAAAA==",
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\cSharp\\authProject\\authProject\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "authProject\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\cSharp\\authProject\\authProject\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "authProject\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-06T09:46:46.301Z",
+              "WhenOpened": "2025-08-11T08:12:23.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "D:\\cSharp\\authProject\\authProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "authProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "D:\\cSharp\\authProject\\authProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeToolTip": "authProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAkwCcAAAB0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T09:40:38.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\cSharp\\authProject\\authProject\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "authProject\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\cSharp\\authProject\\authProject\\Controllers\\HomeController.cs",
               "RelativeToolTip": "authProject\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T09:40:29.824Z",
+              "WhenOpened": "2025-08-11T08:11:09.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "D:\\cSharp\\authProject\\authProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "authProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "D:\\cSharp\\authProject\\authProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "authProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAkwIMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "20250811080451_withRole.cs",
+              "DocumentMoniker": "D:\\cSharp\\authProject\\authProject\\Migrations\\20250811080451_withRole.cs",
+              "RelativeDocumentMoniker": "authProject\\Migrations\\20250811080451_withRole.cs",
+              "ToolTip": "D:\\cSharp\\authProject\\authProject\\Migrations\\20250811080451_withRole.cs",
+              "RelativeToolTip": "authProject\\Migrations\\20250811080451_withRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T08:19:00.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\cSharp\\authProject\\authProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "authProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "D:\\cSharp\\authProject\\authProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "authProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAkwBwAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-06T08:17:56.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\cSharp\\authProject\\authProject\\appsettings.json",
-              "RelativeDocumentMoniker": "authProject\\appsettings.json",
-              "ToolTip": "D:\\cSharp\\authProject\\authProject\\appsettings.json",
-              "RelativeToolTip": "authProject\\appsettings.json",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-06T08:07:30.236Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\cSharp\\authProject\\authProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "authProject\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\cSharp\\authProject\\authProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "authProject\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-06T07:47:10.187Z",
+              "WhenOpened": "2025-08-11T08:04:51.725Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\cSharp\\authProject\\authProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "authProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "D:\\cSharp\\authProject\\authProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "authProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-06T09:40:34.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuthContext.cs",
-              "DocumentMoniker": "D:\\cSharp\\authProject\\authProject\\Areas\\Identity\\Data\\AuthContext.cs",
-              "RelativeDocumentMoniker": "authProject\\Areas\\Identity\\Data\\AuthContext.cs",
-              "ToolTip": "D:\\cSharp\\authProject\\authProject\\Areas\\Identity\\Data\\AuthContext.cs",
-              "RelativeToolTip": "authProject\\Areas\\Identity\\Data\\AuthContext.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwB4AAABFAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\cSharp\\authProject\\authProject\\Areas\\Identity\\Data\\User.cs",
+              "RelativeDocumentMoniker": "authProject\\Areas\\Identity\\Data\\User.cs",
+              "ToolTip": "D:\\cSharp\\authProject\\authProject\\Areas\\Identity\\Data\\User.cs",
+              "RelativeToolTip": "authProject\\Areas\\Identity\\Data\\User.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T07:54:59.461Z",
+              "WhenOpened": "2025-08-11T08:01:51.769Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\cSharp\\authProject\\authProject\\Program.cs",
               "RelativeDocumentMoniker": "authProject\\Program.cs",
               "ToolTip": "D:\\cSharp\\authProject\\authProject\\Program.cs",
               "RelativeToolTip": "authProject\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAswCQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T07:49:20.404Z"
+              "WhenOpened": "2025-08-11T07:51:38.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\cSharp\\authProject\\authProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "authProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\cSharp\\authProject\\authProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "authProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAMwGQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T07:24:09.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\cSharp\\authProject\\authProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "authProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\cSharp\\authProject\\authProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "authProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T07:23:03.707Z",
+              "EditorCaption": ""
             }
           ]
         }

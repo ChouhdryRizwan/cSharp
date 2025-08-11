@@ -10,6 +10,6 @@ namespace authProject.Areas.Identity.Data;
 public class User : IdentityUser
 {
     public string name { get; set; }
-    public string role { get; set; }
+    public string? role { get; set; }
 }
 
